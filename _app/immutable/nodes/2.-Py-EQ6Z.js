@@ -1,0 +1,1 @@
+import{t as o,a as r}from"../chunks/DBJWELUO.js";import"../chunks/fZOo0-90.js";var e=o('<div class="dark:bg-gray-800 h-[100vh] w-[100vw] svelte-1yi4a9n"></div>');function i(a){var t=e();r(a,t)}export{i as component};
