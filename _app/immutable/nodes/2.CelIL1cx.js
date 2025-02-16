@@ -1,1 +1,0 @@
-import{t as r,a as t}from"../chunks/DBJWELUO.js";import"../chunks/fZOo0-90.js";var p=r('<div class="dark:bg-gray-800 h-[100vh] w-[100vw]"></div>');function i(a){var o=p();t(a,o)}export{i as component};
