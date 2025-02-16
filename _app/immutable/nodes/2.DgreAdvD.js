@@ -1,0 +1,1 @@
+import{t as p,a as t}from"../chunks/LXnHf56e.js";import"../chunks/DSsL52wy.js";/* empty css                */var r=p('<div class="dark:bg-[#1f2937] h-[100vh] w-[100vw] p-0 m-0"></div>');function e(a){var o=r();t(a,o)}export{e as component};
